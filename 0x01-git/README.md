@@ -1,3 +1,2 @@
-[master 3fc991c] How to be up to date in git
- 2 files changed, 9 insertions(+), 1 deletion(-)
- delete mode 100644 0x01-git/up_to_date
+[master d8f0b3f] How to be up to date in git
+ 1 file changed, 3 insertions(+), 9 deletions(-)
